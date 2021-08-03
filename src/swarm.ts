@@ -1,5 +1,4 @@
 import { Draw } from "./draw";
-
 export class Swarm {
   private swarmArr: Draw[] = [];
   private nAmount: number;
